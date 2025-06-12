@@ -1,2 +1,2 @@
 # first-repo
-my first test
+This repo is for practicing the Github flow
